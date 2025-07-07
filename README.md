@@ -91,7 +91,7 @@ You can automate daily runs via:
 If you need a **customized email automation tool**, tailored to your use case (e.g., weekly reports, marketing campaigns, order summaries), feel free to reach out:
 
 - 💼 **Fiverr:** https://www.fiverr.com/users/roohullah2020/
-- 🐙 **GitHub:** [github.com/roohullah-dev](https://github.com/roohullah-dev
+- 🐙 **GitHub:** https://github.com/roohullah-dev
 - 📧 **Email:** roohanitech121@gmail.com
 
 ## ❤️ Final Note
