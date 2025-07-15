@@ -39,16 +39,15 @@ Make sure your Google Sheet contains these columns:
 
 ## 📤 Sample Email Output
 
-> **Subject:** `[Python Automation Expert] Invoice INV-123`
+> **Subject:** `Python Automation Expert Invoice INV-123`
 
-```html
-Hi <strong>John</strong>,<br />
-I hope you are well.<br />
-This is a kind reminder that <strong>$120</strong> for invoice
-<strong>INV-123</strong> is due on <strong>20-07-2025</strong>.<br /><br />
-Please confirm if everything is on track for payment.<br /><br />
-Best regards,<br />
+```Hi John,  
+I hope you are well.  
+This is a kind reminder that $120 for invoice INV-123 is due on 20-07-2025.  
+Please confirm if everything is on track for payment.  
+Best regards,  
 Roohullah
+
 ```
 
 📎 _If available, a PDF version of the invoice will be attached automatically._
