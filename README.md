@@ -41,7 +41,8 @@ Make sure your Google Sheet contains these columns:
 
 > **Subject:** `Python Automation Expert Invoice INV-123`
 
-```Hi John,  
+```
+Hi John,  
 I hope you are well.  
 This is a kind reminder that $120 for invoice INV-123 is due on 20-07-2025.  
 Please confirm if everything is on track for payment.  
